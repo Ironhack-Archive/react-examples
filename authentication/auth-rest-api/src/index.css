@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+
+.form-wrapper {
+  padding: 5% 10%;
+}
+
+.form-wrapper div {
+  margin: 20px 0;
+}
+
+.form-wrapper label {
+  margin-right: 15px;
+}
+  
